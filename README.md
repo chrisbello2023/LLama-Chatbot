@@ -1,4 +1,4 @@
-# 🦙💬 Llama 2 Chat
+# 🦙💬 LLama Chatbot
 
 This chatbot is created using the open-source Llama 2 LLM model from Meta.
 
@@ -8,7 +8,7 @@ This app was refactored from [a16z's implementation](https://github.com/a16z-inf
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://llama2.streamlitapp.com/)
+
 
 ## Prerequisite libraries
 
